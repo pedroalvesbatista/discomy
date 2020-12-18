@@ -22,27 +22,27 @@ Follow steps on https://gitlab.com/SkipGrube/RockyLinux/-/blob/master/Build_Step
 
 Those are some desirable features to be reached :
 
-[ ] Design interactions with Koji and Mock
+- [ ] Design interactions with Koji and Mock
 
-[ ] Prepare job queues
+- [ ] Prepare job queues
 
-[ ] Connect to agents
+- [ ] Connect to agents
 
-[ ] Check agents availability
+- [ ] Check agents availability
 
-[ ] Signal agents for green light
+- [ ] Signal agents for green light
 
-[ ] Check the jobs queue for priority
+- [ ] Check the jobs queue for priority
 
-[ ] Start jobs distribution
+- [ ] Start jobs distribution
 
-[ ] Monitor jobs execution
+- [ ] Monitor jobs execution
 
-[ ] Check job finishing
+- [ ] Check job finishing
 
-[ ] Update queue
+- [ ] Update queue
 
-[ ] Notify CI/CD server of the conclusion
+- [ ] Notify CI/CD server of the conclusion
 
 Discomy will come in two flavors : `discomy-client` and `discomy-server`, each having specifications for receiving jobs and passing away to the servers for heavy lift and bulk work (compiling, checking, sanitization etc).
 
